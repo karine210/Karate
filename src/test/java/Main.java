@@ -1,5 +1,4 @@
-import org.junit.runner.JUnitCore;
-import runner.SecondRunner;
+/*import runner.SecondRunner;
 import utils.APICall;
 
 import java.io.IOException;
@@ -18,6 +17,7 @@ public class Main {
 
         JUnitCore.runClasses(SecondRunner.class);
 
+
         try {
             concatenateJsonFiles("target/surefire-reports/", "target/combined.json");
         } catch (IOException e) {
@@ -28,3 +28,4 @@ public class Main {
     }
 
 }
+*/

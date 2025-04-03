@@ -2,7 +2,8 @@ package runner;
 
 import com.intuit.karate.Results;
 import com.intuit.karate.Runner;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+
 
 public class SecondRunner {
 
